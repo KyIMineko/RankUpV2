@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KyIMineko/RankUpV2
+build-by-default: true
+branches:
+- master
+projects:
+  RankUpV2:
+    path: ""
+    icon: meta/rankup.png
+...
